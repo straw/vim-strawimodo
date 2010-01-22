@@ -1,4 +1,3 @@
-" Name:        strawimodo
 " Description: vim colorscheme
 " Name:        strawimodo
 "
